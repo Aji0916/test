@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang-"en"
+<head>
+<meta charest="UTF-8">
+<meta name="viewport" contest="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="test.css">
+<title>適当</title>
+<body>
+<div>バックの中で水筒が開いた
+　　　損壊は軽微なり
+</div>
+<img src="test.png">
+<script src-"test.js"></script>
+</body>
